@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620081442385",
+    "firebase_url": "https://easychair-17f7e.firebaseio.com",
+    "project_id": "easychair-17f7e",
+    "storage_bucket": "easychair-17f7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620081442385:android:d05ba82114aecc2a",
+        "android_client_info": {
+          "package_name": "com.easychair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620081442385-l5gbv592d7e8bljogsjrdb3jhi2b1dvo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuNXU2DmUaQuyzltlsaCjDwR7wNCm5YAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620081442385-l5gbv592d7e8bljogsjrdb3jhi2b1dvo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "620081442385-lk69o6tc8rg4ulkofkan12nir8t615og.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.easychair.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
